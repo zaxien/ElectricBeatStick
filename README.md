@@ -1,0 +1,2 @@
+# ElectricBeatStick
+Collaborative music repository.
